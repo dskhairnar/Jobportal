@@ -1,4 +1,4 @@
-const Job = require('../models/Job');
+const Job = require('../models/job');
 
 // Create new job
 exports.createJob = async (req, res) => {
